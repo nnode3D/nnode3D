@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nnode3D
-- 👀 I’m interested in Game Dev
+- 👀 I’m interested in Procedural Game Art
 - 🌱 I’m currently learning Python
 <!---- 💞️ I’m looking to collaborate on ...
 //- 📫 How to reach me ...--->
