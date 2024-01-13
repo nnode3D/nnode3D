@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nnode3D
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++ & Python
+- 👀 I’m interested in Procedural World Building for Games
+- 🌱 I’m currently learning Python & VEX
 <!---- 💞️ I’m looking to collaborate on ...
 //- 📫 How to reach me ...--->
 
