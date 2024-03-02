@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nnode3D
-- 👀 I’m interested in Procedural World Building for Games using Houdini
+- 👀 I’m interested in procedural world building for games using Houdini
 - 🌱 I’m currently learning Python, VEX & 日本語
 <!---- 💞️ I’m looking to collaborate on ...
 //- 📫 How to reach me ...--->
