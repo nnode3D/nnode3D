@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nnode3D
-- 👀 I like making procedural art for games
-- 🧰 I mainly use Houdini & Unreal Engine
+- 🐢 Hi, I’m @nnode3D
+- 🕹️ I make 3D art for games
+- 🧰 Houdini, Substance, ZBrush & Unreal Engine
 <!---- 💞️ I’m looking to collaborate on ...
 //- 📫 How to reach me ...--->
 
