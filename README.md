@@ -1,7 +1,7 @@
 - 🐢 Hi, I’m @nnode3D
-- 🕹️ I make 3D art for games
+<!---- 🕹️ I make 3D art for games
 - 🧰 Houdini, Substance, ZBrush & Unreal Engine
-<!---- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 //- 📫 How to reach me ...--->
 
 <!---
